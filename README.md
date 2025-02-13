@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🚀 Welcome  
 
-<!--
-**taepyongyang/taepyongyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Building things.  
+🔹 Breaking things.  
+🔹 Learning always.  
 
-Here are some ideas to get you started:
+💡 Exploring the intersection of **technology, leadership, and innovation**.  
+🌍 Operating globally, thinking long-term.  
+🛠️ Shipping projects, one experiment at a time.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📬 _Let’s connect when the time is right._  
